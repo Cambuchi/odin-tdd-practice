@@ -1,0 +1,27 @@
+{
+  "name": "odin-tdd-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "scripts": {
+    "test": "jest",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cambuchi/odin-tdd-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cambuchi/odin-tdd-practice/issues"
+  },
+  "homepage": "https://github.com/Cambuchi/odin-tdd-practice#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.8",
+    "jest": "^27.4.7"
+  }
+}
